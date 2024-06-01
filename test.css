@@ -1,0 +1,49 @@
+.Video-Title{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 2px;
+    width: 300px;
+    line-height: 24px;
+}
+.View{
+    margin-top: 0px;
+    font-size: 14px;
+    font-family: arial;
+    margin-bottom: 16px;
+    color: #606060;
+}
+.MKBHD{
+    font-size: 14px;
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 16px;
+    color: #606060;
+}
+.Description{
+    font-size: 14px;
+    color: #606060;
+    line-height: 20px;
+    margin-bottom: 100px;
+    font-family: Arial;
+    width: 284px;
+
+}
+.Last{
+    margin-bottom: 50px;
+    font-family: Arial;
+    background-color: #e34130;
+    color: white;
+    text-align: center;
+    margin-left: 8px;
+    margin-right: 8px;
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-bottom: 16px;
+    padding-right: 16px;
+    
+}
+.Special:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
